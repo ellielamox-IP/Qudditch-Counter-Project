@@ -1,7 +1,7 @@
-Court Counter Sample App
+Quidditch Counter Sample App
 ===================================
 
-Keeps track of basketball scores for two teams. Used in the Udacity Android for Beginners course.
+Forked and modified to Quidditch Counter project. Used in the Udacity Android for Beginners course.
 
 Pre-requisites
 --------------
